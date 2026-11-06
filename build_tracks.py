@@ -31,6 +31,8 @@ MAX_TRUE_PEAK = -1.0
 LOOP = 60  # seconds; every synthetic frequency below fits it in whole cycles
 HOLD = 60  # seconds a sweep holds its target at the end (looped by the app)
 CHUNK = 10 * SR
+# The commit holding the untouched recordings; trimming always starts here.
+ORIGINALS = 'd241303'
 
 
 # ── output ──────────────────────────────────────────────────────────────────
@@ -209,9 +211,9 @@ def breath_pacer(phases, cycles):
 # ── recorded loops ──────────────────────────────────────────────────────────
 
 def read_original(name):
-    """The committed recording, so a rebuild never trims an already-trimmed
+    """The original recording, so a rebuild never trims an already-trimmed
     file a second time."""
-    flac = subprocess.run(['git', '-C', str(ROOT), 'show', f'HEAD:{name}'],
+    flac = subprocess.run(['git', '-C', str(ROOT), 'show', f'{ORIGINALS}:{name}'],
                           capture_output=True, check=True).stdout
     raw = subprocess.run(['ffmpeg', '-v', 'error', '-i', 'pipe:0', '-f',
                           'f32le', '-ac', '2', '-ar', str(SR), '-'],
