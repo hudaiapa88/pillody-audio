@@ -1,0 +1,3225 @@
+{
+ "fire_stone_fireplace": {
+  "label_tr": "Taş şömine",
+  "kind": "bed",
+  "category": "fire",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-fire_stone_fireplace.flac",
+    "seconds": 117.85,
+    "lufs": -20.7,
+    "true_peak": -1.1,
+    "sha256": "8787abf490dc7dd6e8398f1a1ef4a3d7f3832a9207079503d63255fed3545603",
+    "source": "Studio/lab/sound-lib-1/out/beds/fire_stone_fireplace-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "air_conditioner_hum": {
+  "label_tr": "Klima",
+  "kind": "bed",
+  "category": "machine",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-air_conditioner_hum.flac",
+    "seconds": 117.95,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "b025d8afb475b81410d000bf44c0f4d428f0c883b08204f5b3b60d82474898fe",
+    "source": "Studio/lab/sound-lib-3/out/beds/air_conditioner_hum-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "airplane_cabin_cruise": {
+  "label_tr": "Uçak kabini",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-airplane_cabin_cruise.flac",
+    "seconds": 117.95,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "b33f42d560d8211d564adf4514eecec6c7336dc9219e03a12a296d2fa97be768",
+    "source": "Studio/lab/sound-lib-3/out/beds/airplane_cabin_cruise-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "airplane_cabin_firstclass": {
+  "label_tr": "Uçak, birinci sınıf",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-airplane_cabin_firstclass.flac",
+    "seconds": 116.5,
+    "lufs": -16.0,
+    "true_peak": -1.2,
+    "sha256": "a0771eb54b4ee390ef9b0222a93ad49df814151f65986364548dd2e9ed2a80d7",
+    "source": "Studio/lab/sound-lib-4/out/beds/airplane_cabin_firstclass-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "autumn_leaves_wind": {
+  "label_tr": "Sonbahar yaprakları",
+  "kind": "bed",
+  "category": "nature",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-autumn_leaves_wind.flac",
+    "seconds": 117.85,
+    "lufs": -17.0,
+    "true_peak": -1.1,
+    "sha256": "11879d8df56b5ab0bdfd66a3bb8f536661de6e29998467b4c5a50a0f204ea3ec",
+    "source": "Studio/lab/sound-lib-3/out/beds/autumn_leaves_wind-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "bamboo_water_knock": {
+  "label_tr": "Bambu çeşmesi",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-bamboo_water_knock-1.flac",
+    "seconds": 5.96,
+    "lufs": -19.1,
+    "true_peak": -1.4,
+    "sha256": "bd1bf6089744a333dc154f4d8d42e3351569b8198bfd09a1f88198e87ffb4997",
+    "source": "Studio/lab/sound-lib-4/out/events/bamboo_water_knock-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "beam_creak_wind": {
+  "label_tr": "Rüzgârda kiriş gıcırtısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-beam_creak_wind-1.flac",
+    "seconds": 7.51,
+    "lufs": -18.1,
+    "true_peak": -1.5,
+    "sha256": "2be90aee886f27555b14de37ef1a56e3c525652c0425cd556d0fdfe253922e81",
+    "source": "Studio/lab/sound-lib-2/out/events/beam_creak_wind-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "blizzard_window": {
+  "label_tr": "Camın ardında kar fırtınası",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-blizzard_window.flac",
+    "seconds": 118.0,
+    "lufs": -16.7,
+    "true_peak": -1.0,
+    "sha256": "79365d8f05cd2fa252a8c911092be7d379a3c821621b2af28f17328587e48f7d",
+    "source": "Studio/lab/sound-lib-1/out/beds/blizzard_window-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "boat_cabin_night": {
+  "label_tr": "Tekne kabini",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-boat_cabin_night.flac",
+    "seconds": 117.85,
+    "lufs": -17.7,
+    "true_peak": -1.1,
+    "sha256": "4071adaa90c0a436ae2bb30eb4de06091e7adb7914e8868665d8af424e61934b",
+    "source": "Studio/lab/sound-lib-3/out/beds/boat_cabin_night-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "boat_creak_mooring": {
+  "label_tr": "İskelede tekne gıcırtısı",
+  "kind": "event",
+  "category": "water",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-boat_creak_mooring-1.flac",
+    "seconds": 6.0,
+    "lufs": -18.4,
+    "true_peak": -1.4,
+    "sha256": "68e47a253de0601f961dc096db9ac9b306ef318a9b5d35943fe6f7ee29a1a9a7",
+    "source": "Studio/lab/sound-lib-3/out/events/boat_creak_mooring-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "bonfire_large": {
+  "label_tr": "Büyük şenlik ateşi",
+  "kind": "bed",
+  "category": "fire",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-bonfire_large.flac",
+    "seconds": 117.85,
+    "lufs": -17.7,
+    "true_peak": -1.1,
+    "sha256": "74a6476083f25c66b0aca25a10bf590fbbed777956a7d22a7cdcf74d4c06539f",
+    "source": "Studio/lab/sound-lib-3/out/beds/bonfire_large-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "book_close": {
+  "label_tr": "Kitap kapanması",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-book_close-1.flac",
+    "seconds": 2.3,
+    "lufs": -21.0,
+    "true_peak": -1.5,
+    "sha256": "0505b112b25866971c0f0577a70382893af6d54085362f26ebd3da9358d7a5d3",
+    "source": "Studio/lab/sound-lib-1/out/events/book_close-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-book_close-2.flac",
+    "seconds": 2.88,
+    "lufs": -22.0,
+    "true_peak": -1.5,
+    "sha256": "adebfbdfb2a9bf2831e198b2cb1ecbdc39c5e521ff3a50b53bd9919324bd1463",
+    "source": "Studio/lab/sound-lib-2/out/events/book_close-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "bookstore_quiet": {
+  "label_tr": "Sakin kitapçı",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-bookstore_quiet.flac",
+    "seconds": 117.1,
+    "lufs": -16.7,
+    "true_peak": -1.1,
+    "sha256": "b72acb170ae26927bb812c882b891496b1b3cc36e6a72df3c345882dc8603540",
+    "source": "Studio/lab/sound-lib-3/out/beds/bookstore_quiet-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "breeze_trees": {
+  "label_tr": "Yapraklarda esinti",
+  "kind": "bed",
+  "category": "nature",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-breeze_trees.flac",
+    "seconds": 117.85,
+    "lufs": -16.7,
+    "true_peak": -1.1,
+    "sha256": "a8fa1937953b6241d3fb231bbaf3034e9187964e70fbdb61d3b2ebc3b04f837c",
+    "source": "Studio/lab/sound-lib-1/out/beds/breeze_trees-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "buoy_bell_distant": {
+  "label_tr": "Uzak şamandıra çanı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-buoy_bell_distant-1.flac",
+    "seconds": 10.0,
+    "lufs": -18.1,
+    "true_peak": -1.2,
+    "sha256": "8d443aef3570f01c2109956d4b14e9f706d04cefacb9f92bd45d0268f5baf854",
+    "source": "Studio/lab/sound-lib-3/out/events/buoy_bell_distant-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-buoy_bell_distant-2.flac",
+    "seconds": 9.68,
+    "lufs": -18.3,
+    "true_peak": -1.1,
+    "sha256": "bb61f0ad8df510ee33612ad276c09b974964707abbd70214017d49f8591ed180",
+    "source": "Studio/lab/sound-lib-3/out/events/buoy_bell_distant-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "cafe_quiet": {
+  "label_tr": "Sakin kafe",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "focus"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-cafe_quiet.flac",
+    "seconds": 118.0,
+    "lufs": -18.1,
+    "true_peak": -1.1,
+    "sha256": "bb56d0846b573e422d4d119009a4e66f187d7e42e92b0fbf47afcfaaf5f084a0",
+    "source": "Studio/lab/sound-lib-1/out/beds/cafe_quiet-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "car_interior_drive": {
+  "label_tr": "Araba içi otoyol",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-car_interior_drive.flac",
+    "seconds": 117.85,
+    "lufs": -16.1,
+    "true_peak": -1.5,
+    "sha256": "9c30f7b72dd861eb5456b95693d59086d21e55a58ab6880bcd95cb53ed010f81",
+    "source": "Studio/lab/sound-lib-4/out/beds/car_interior_drive-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "car_night_highway": {
+  "label_tr": "Gece otoyolda araba",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-car_night_highway.flac",
+    "seconds": 116.7,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "af56b6c006775cec9d76792649e25a3b5ee486441ccb149e588d3862e0418c3e",
+    "source": "Studio/lab/sound-lib-3/out/beds/car_night_highway-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "carriage_door_slide": {
+  "label_tr": "Kompartıman kapısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-carriage_door_slide-1.flac",
+    "seconds": 4.0,
+    "lufs": -19.7,
+    "true_peak": -1.5,
+    "sha256": "eadc7a03b28fa03a321f9ce3e0549f756850b1fa0d92b93ea4a5c0c7d00ea028",
+    "source": "Studio/lab/sound-lib-1/out/events/carriage_door_slide-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-carriage_door_slide-2.flac",
+    "seconds": 4.55,
+    "lufs": -18.1,
+    "true_peak": -1.5,
+    "sha256": "6ebfc806e9e16938933f23d378405d3a38e7b163189fff33f0a5d26e47575f3c",
+    "source": "Studio/lab/sound-lib-2/out/events/carriage_door_slide-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "cat_purring": {
+  "label_tr": "Kedi mırıltısı",
+  "kind": "bed",
+  "category": "home",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-cat_purring.flac",
+    "seconds": 117.7,
+    "lufs": -16.1,
+    "true_peak": -1.5,
+    "sha256": "9cbcf6ecc0a97a420bc7306222fc621f9fa86c59a76ed3c59aeeb7cc5d54e3a1",
+    "source": "Studio/lab/sound-lib-2/out/beds/cat_purring-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "cathedral_room_tone": {
+  "label_tr": "Taş katedral",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-cathedral_room_tone.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "5a3feceb9d6dc19416268d78f02493053e1db131c228f78273c8358d66113b8a",
+    "source": "Studio/lab/sound-lib-3/out/beds/cathedral_room_tone-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "cave_drips": {
+  "label_tr": "Mağara damlaları",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-cave_drips.flac",
+    "seconds": 117.95,
+    "lufs": -16.5,
+    "true_peak": -1.1,
+    "sha256": "fc185c5b87a454c6b8127a6664d7250e95f4a6a846c40b979bd2d63ec8170d46",
+    "source": "Studio/lab/sound-lib-3/out/beds/cave_drips-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "ceiling_fan_steady": {
+  "label_tr": "Tavan vantilatörü",
+  "kind": "bed",
+  "category": "home-event",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-ceiling_fan_steady.flac",
+    "seconds": 117.9,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "981c9448ed00458c84b5698423d8c517ee9e9395817843c437633f9dc7ec8e0c",
+    "source": "Studio/lab/sound-lib-4/out/beds/ceiling_fan_steady-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "chair_creak": {
+  "label_tr": "Sandalye gıcırtısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-chair_creak-1.flac",
+    "seconds": 3.7,
+    "lufs": -19.9,
+    "true_peak": -1.2,
+    "sha256": "03529025785969c8431d899fbfa318bf49bbcbd45499682e4b9c78dcae0159a8",
+    "source": "Studio/lab/sound-lib-3/out/events/chair_creak-s97.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "city_day_distant": {
+  "label_tr": "Uzaktan şehir",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "focus"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-city_day_distant.flac",
+    "seconds": 117.8,
+    "lufs": -16.2,
+    "true_peak": -1.5,
+    "sha256": "69b33c3065a721b7171b08fa41e578f389847cfd22f4726b492558a59dca528f",
+    "source": "Studio/lab/sound-lib-1/out/beds/city_day_distant-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "clock_tick": {
+  "label_tr": "Duvar saati tıkırtısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-clock_tick-1.flac",
+    "seconds": 30.0,
+    "lufs": -20.8,
+    "true_peak": -1.4,
+    "sha256": "09e15ec12732ffaac68fad0e2f751fe92f9bfce9fd6b98d942b1fea3e3b564ea",
+    "source": "Studio/lab/sound-lib-1/out/events/clock_tick-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-clock_tick-2.flac",
+    "seconds": 29.75,
+    "lufs": -19.1,
+    "true_peak": -1.4,
+    "sha256": "6f10abb935eef534aa8f527a3f3a04209e3ea298280c043116f978c11be77b56",
+    "source": "Studio/lab/sound-lib-1/out/events/clock_tick-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-clock_tick-3.flac",
+    "seconds": 29.96,
+    "lufs": -19.9,
+    "true_peak": -1.0,
+    "sha256": "3eea7af1b8496392bcd99ab8cf9e7b9cccee62d027a94cc510b66ed2d023f955",
+    "source": "Studio/lab/sound-lib-2/out/events/clock_tick-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-clock_tick-4.flac",
+    "seconds": 30.0,
+    "lufs": -19.8,
+    "true_peak": -1.4,
+    "sha256": "4d8bab758fefa2b1afb69161af876a486ef10e5b25412f877f57eb09e6207f0a",
+    "source": "Studio/lab/sound-lib-2/out/events/clock_tick-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "crickets_summer": {
+  "label_tr": "Yaz gecesi cırcır böcekleri",
+  "kind": "bed",
+  "category": "nature",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-crickets_summer.flac",
+    "seconds": 117.9,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "e6aa7978b2db88fd4c5d38dac88c79a48fad4f7a31f71b9b99d59265623ad5cb",
+    "source": "Studio/lab/sound-lib-1/out/beds/crickets_summer-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "cup_on_table": {
+  "label_tr": "Masaya konan fincan",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-cup_on_table-1.flac",
+    "seconds": 2.1,
+    "lufs": -21.3,
+    "true_peak": -1.5,
+    "sha256": "8ded946c6aa0e0453cd0e0ce43e22bd383588c610a29cdf38c2437ba706e8cf2",
+    "source": "Studio/lab/sound-lib-2/out/events/cup_on_table-s97.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "data_center_hum": {
+  "label_tr": "Sunucu odası",
+  "kind": "bed",
+  "category": "machine",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-data_center_hum.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -3.8,
+    "sha256": "eba70bfad55d13179f713968a87e3ec31bd5618a71dfe75b303ca8bf2fd8cf00",
+    "source": "Studio/lab/sound-lib-4/out/beds/data_center_hum-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "door_creak_slow": {
+  "label_tr": "Kapı gıcırtısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-door_creak_slow-1.flac",
+    "seconds": 4.59,
+    "lufs": -18.0,
+    "true_peak": -2.1,
+    "sha256": "c2a46171564b9eecd16fc49fe3cae40f924fe6af09a4509819b68ee274bf4b47",
+    "source": "Studio/lab/sound-lib-3/out/events/door_creak_slow-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "drip_puddle": {
+  "label_tr": "Su damlası",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-drip_puddle-1.flac",
+    "seconds": 5.65,
+    "lufs": -19.4,
+    "true_peak": -1.1,
+    "sha256": "55c14b9560cecd02611893cdd83025735e6fe99fb16bbd1bd718f5acc6684e2d",
+    "source": "Studio/lab/sound-lib-1/out/events/drip_puddle-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-drip_puddle-2.flac",
+    "seconds": 5.6,
+    "lufs": -18.3,
+    "true_peak": -1.2,
+    "sha256": "450722a3a057df004b4ea7d1e5408536ab14652ba25b472f2bd38d3856a20694",
+    "source": "Studio/lab/sound-lib-1/out/events/drip_puddle-s97.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-drip_puddle-3.flac",
+    "seconds": 7.62,
+    "lufs": -18.3,
+    "true_peak": -1.1,
+    "sha256": "9c99166b0928e008ee73b36026a18d0b2f361fd946891c9006fb797fba3badb9",
+    "source": "Studio/lab/sound-lib-2/out/events/drip_puddle-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-drip_puddle-4.flac",
+    "seconds": 8.0,
+    "lufs": -19.9,
+    "true_peak": -1.1,
+    "sha256": "21e2ea3ec86913baf6d8abf7444e9fc7426eefa1314de8a26052af4393c9813f",
+    "source": "Studio/lab/sound-lib-2/out/events/drip_puddle-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "drizzle_soft": {
+  "label_tr": "Çiseleme",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-drizzle_soft.flac",
+    "seconds": 118.0,
+    "lufs": -16.9,
+    "true_peak": -1.1,
+    "sha256": "da88a610ac418abf96c36ff7df5ddef592f6bc46cbc068b544834168c4adec53",
+    "source": "Studio/lab/sound-lib-3/out/beds/drizzle_soft-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "embers_shift": {
+  "label_tr": "Korların kayması",
+  "kind": "event",
+  "category": "fire-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-embers_shift-1.flac",
+    "seconds": 4.25,
+    "lufs": -18.4,
+    "true_peak": -1.1,
+    "sha256": "416ec8ef7fae99ed0916091c2a6f102995288587b7e3d878641b80cd52774c79",
+    "source": "Studio/lab/sound-lib-1/out/events/embers_shift-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-embers_shift-2.flac",
+    "seconds": 4.12,
+    "lufs": -18.9,
+    "true_peak": -1.1,
+    "sha256": "9e64c41fb53ead6f1748b1a3bbcc703ae51097c2aeaa058d2680c6c7271c4d9f",
+    "source": "Studio/lab/sound-lib-1/out/events/embers_shift-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "fan_box_steady": {
+  "label_tr": "Vantilatör",
+  "kind": "bed",
+  "category": "machine",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-fan_box_steady.flac",
+    "seconds": 117.95,
+    "lufs": -16.0,
+    "true_peak": -4.7,
+    "sha256": "321eb94e4771e48995f3faa10e879a32ec56197b6e14c2c85b3f6e6700fb2fa2",
+    "source": "Studio/lab/sound-lib-3/out/beds/fan_box_steady-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "ferry_deck_night": {
+  "label_tr": "Gece vapur güvertesi",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-ferry_deck_night.flac",
+    "seconds": 117.85,
+    "lufs": -16.0,
+    "true_peak": -1.9,
+    "sha256": "132382f5284ff5ec751a37cf34856de7f96404c5c3fe5c20811dd1e1665a1805",
+    "source": "Studio/lab/sound-lib-3/out/beds/ferry_deck_night-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "ferry_horn_distant": {
+  "label_tr": "Uzak vapur düdüğü",
+  "kind": "event",
+  "category": "vehicle",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-ferry_horn_distant-1.flac",
+    "seconds": 6.64,
+    "lufs": -18.0,
+    "true_peak": -7.2,
+    "sha256": "8daa02b5ec2e185e288dec7ac56ef55c31f8dc574b69af7c100bf4d95477147f",
+    "source": "Studio/lab/sound-lib-1/out/events/ferry_horn_distant-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-ferry_horn_distant-2.flac",
+    "seconds": 7.0,
+    "lufs": -18.0,
+    "true_peak": -9.8,
+    "sha256": "d887c2c15104452c0de27f6edcbc243d962a04a4b7c6e79cb621e54860d0348f",
+    "source": "Studio/lab/sound-lib-1/out/events/ferry_horn_distant-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-ferry_horn_distant-3.flac",
+    "seconds": 8.0,
+    "lufs": -18.0,
+    "true_peak": -2.3,
+    "sha256": "9a265d92721c310f437f3f2de5772e13b30f2bd675085ace89ee84f32886f518",
+    "source": "Studio/lab/sound-lib-2/out/events/ferry_horn_distant-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-ferry_horn_distant-4.flac",
+    "seconds": 7.62,
+    "lufs": -18.0,
+    "true_peak": -3.4,
+    "sha256": "72c6e136749d89ba39c4731fa5cc10e8254c579f34063db49aa3797b12e31916",
+    "source": "Studio/lab/sound-lib-2/out/events/ferry_horn_distant-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "ferry_salon_night": {
+  "label_tr": "Gece vapur salonu",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-ferry_salon_night.flac",
+    "seconds": 117.9,
+    "lufs": -16.0,
+    "true_peak": -2.7,
+    "sha256": "7f3a2bcdbb08c1ca14d16fdfd1b50c2f657043f06812a5b210b6fd01f5db99d1",
+    "source": "Studio/lab/sound-lib-1/out/beds/ferry_salon_night-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "fire_campfire_night": {
+  "label_tr": "Gece kamp ateşi",
+  "kind": "bed",
+  "category": "fire",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-fire_campfire_night.flac",
+    "seconds": 117.85,
+    "lufs": -16.0,
+    "true_peak": -1.4,
+    "sha256": "1c115636a61a373390fceb5adab0c2042fb40029fc83fd3d75a4cba45e776eec",
+    "source": "Studio/lab/sound-lib-1/out/beds/fire_campfire_night-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "fire_woodstove": {
+  "label_tr": "Döküm soba",
+  "kind": "bed",
+  "category": "fire",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-fire_woodstove.flac",
+    "seconds": 117.9,
+    "lufs": -16.7,
+    "true_peak": -1.1,
+    "sha256": "ff8427c936cf9b6302755559fe38b169eccb6a4833e2ebe30916df4212ee4db0",
+    "source": "Studio/lab/sound-lib-1/out/beds/fire_woodstove-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "floorboard_creak": {
+  "label_tr": "Döşeme gıcırtısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-floorboard_creak-1.flac",
+    "seconds": 4.66,
+    "lufs": -18.9,
+    "true_peak": -1.0,
+    "sha256": "b428020ffe4486910112850ae198e0669e8f0dde056c9c1d87fb4b66ee901c87",
+    "source": "Studio/lab/sound-lib-2/out/events/floorboard_creak-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "foghorn_distant": {
+  "label_tr": "Uzak sis düdüğü",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-foghorn_distant-1.flac",
+    "seconds": 10.0,
+    "lufs": -18.0,
+    "true_peak": -9.0,
+    "sha256": "65437f57d0648660e6507261a8a637cb6be1c261e1caac2ce0eb5e14241a624b",
+    "source": "Studio/lab/sound-lib-2/out/events/foghorn_distant-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-foghorn_distant-2.flac",
+    "seconds": 9.55,
+    "lufs": -18.0,
+    "true_peak": -7.4,
+    "sha256": "893abe1ba32ca423bdeca4795478f6a94202953bb9adc2bde2c54dd146fcccda",
+    "source": "Studio/lab/sound-lib-2/out/events/foghorn_distant-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "forest_birds_morning": {
+  "label_tr": "Sabah orman kuşları",
+  "kind": "bed",
+  "category": "nature",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-forest_birds_morning.flac",
+    "seconds": 117.9,
+    "lufs": -16.1,
+    "true_peak": -1.3,
+    "sha256": "7040fc39f6a3758c575afee62fbe881edac1709731734b133eba506f5bed7ca6",
+    "source": "Studio/lab/sound-lib-1/out/beds/forest_birds_morning-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "fountain_courtyard": {
+  "label_tr": "Avlu çeşmesi",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-fountain_courtyard.flac",
+    "seconds": 117.9,
+    "lufs": -16.0,
+    "true_peak": -1.9,
+    "sha256": "cbe6a66802bfb7ee80ca2f99c6c1c1ee19940a18baf0759e6b676166486990aa",
+    "source": "Studio/lab/sound-lib-3/out/beds/fountain_courtyard-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "frogs_pond_night": {
+  "label_tr": "Gece göletinde kurbağalar",
+  "kind": "bed",
+  "category": "nature",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-frogs_pond_night.flac",
+    "seconds": 118.0,
+    "lufs": -16.2,
+    "true_peak": -1.4,
+    "sha256": "2634a4bae7882a65533ef36f53eba977d4f95ea5a518aedd36715fc3f3ba1d90",
+    "source": "Studio/lab/sound-lib-3/out/beds/frogs_pond_night-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "hair_dryer_steady": {
+  "label_tr": "Saç kurutma makinesi",
+  "kind": "bed",
+  "category": "machine",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-hair_dryer_steady.flac",
+    "seconds": 114.45,
+    "lufs": -16.0,
+    "true_peak": -3.1,
+    "sha256": "de8e9932408d3a41bcef7c6b5358bee92e323cf93631df94d653a5abd23e0e28",
+    "source": "Studio/lab/sound-lib-4/out/beds/hair_dryer_steady-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "harbor_boats_lapping": {
+  "label_tr": "Gece limanı",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-harbor_boats_lapping.flac",
+    "seconds": 118.0,
+    "lufs": -18.2,
+    "true_peak": -1.1,
+    "sha256": "f4233ef17a58cfbba018ed2ec0eecf0ccc4f998069ce66c96e9bfa1bf94ff13c",
+    "source": "Studio/lab/sound-lib-3/out/beds/harbor_boats_lapping-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "japanese_garden_rain": {
+  "label_tr": "Japon bahçesinde yağmur",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-japanese_garden_rain.flac",
+    "seconds": 118.0,
+    "lufs": -16.6,
+    "true_peak": -1.1,
+    "sha256": "bc5c2ae6464c47673d846392d15220c8801b731756a0c2e8f2cc56263853a38c",
+    "source": "Studio/lab/sound-lib-4/out/beds/japanese_garden_rain-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "jungle_rain_birds": {
+  "label_tr": "Tropik yağmur ve kuşlar",
+  "kind": "bed",
+  "category": "nature",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-jungle_rain_birds.flac",
+    "seconds": 118.0,
+    "lufs": -16.4,
+    "true_peak": -1.1,
+    "sha256": "ef464963e521de1ce90ed2c1dff923219122efb6c94f30d649ac62d2d9e50240",
+    "source": "Studio/lab/sound-lib-1/out/beds/jungle_rain_birds-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "karadeniz_yayla_rain": {
+  "label_tr": "Karadeniz yaylasında yağmur",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-karadeniz_yayla_rain.flac",
+    "seconds": 118.0,
+    "lufs": -17.6,
+    "true_peak": -1.1,
+    "sha256": "a86da853a2570b27861a0b3c8a5b1a4337f6c4ff6ac5c48c1c0c6e20ddce4d67",
+    "source": "Studio/lab/sound-lib-4/out/beds/karadeniz_yayla_rain-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "kettle_simmer_v3": {
+  "label_tr": "Demlik (3. deneme)",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-kettle_simmer_v3-1.flac",
+    "seconds": 14.62,
+    "lufs": -18.0,
+    "true_peak": -1.5,
+    "sha256": "a182f86de32b71fa57e53456f76aee4a8cea98f7dc2be9c29feec0205077e2c9",
+    "source": "Studio/lab/sound-lib-3/out/events/kettle_simmer_v3-s97.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "keyboard_typing_soft": {
+  "label_tr": "Klavye",
+  "kind": "bed",
+  "category": "focus",
+  "uses": [
+   "calm",
+   "focus"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-keyboard_typing_soft.flac",
+    "seconds": 117.95,
+    "lufs": -29.5,
+    "true_peak": -1.1,
+    "sha256": "6e0ace3c9ee21eb646afc199f3b62ceda50f93197fd58449194cb441ec62bd95",
+    "source": "Studio/lab/sound-lib-4/out/beds/keyboard_typing_soft-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "lake_shore_gentle": {
+  "label_tr": "Göl kıyısı",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-lake_shore_gentle.flac",
+    "seconds": 117.95,
+    "lufs": -16.1,
+    "true_peak": -1.0,
+    "sha256": "4522f15724f8e138a609d199d91699b78cbb4a1d71e56090df7fc98cc3dd2c38",
+    "source": "Studio/lab/sound-lib-3/out/beds/lake_shore_gentle-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "library_storm": {
+  "label_tr": "Fırtınada eski kütüphane",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-library_storm.flac",
+    "seconds": 117.85,
+    "lufs": -16.1,
+    "true_peak": -1.4,
+    "sha256": "f65c3dd8aa2bfcf83290bc39cb3aa179acb59e046b01d2dce0b95d7d528f460c",
+    "source": "Studio/lab/sound-lib-1/out/beds/library_storm-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "lighthouse_room_storm": {
+  "label_tr": "Deniz feneri odası, fırtına",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-lighthouse_room_storm.flac",
+    "seconds": 118.0,
+    "lufs": -16.1,
+    "true_peak": -1.3,
+    "sha256": "797f0bf584589c929af1cdfc8208aae02fd7a49428af6520b088b536f6ca8cce",
+    "source": "Studio/lab/sound-lib-1/out/beds/lighthouse_room_storm-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "log_crackle_burst": {
+  "label_tr": "Ateşte çıtırtı patlaması",
+  "kind": "event",
+  "category": "fire-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-log_crackle_burst-1.flac",
+    "seconds": 5.87,
+    "lufs": -19.4,
+    "true_peak": -1.1,
+    "sha256": "31061fbe13a109686e3dec52d69b18a72f6f66a549cc77a8179822846a053f95",
+    "source": "Studio/lab/sound-lib-3/out/events/log_crackle_burst-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-log_crackle_burst-2.flac",
+    "seconds": 6.0,
+    "lufs": -21.5,
+    "true_peak": -1.1,
+    "sha256": "67b9107d07c50ab8da09e4bdcbc884187f609781a71a92acf19f95a8612731ab",
+    "source": "Studio/lab/sound-lib-3/out/events/log_crackle_burst-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "log_settle": {
+  "label_tr": "Kütük oturması",
+  "kind": "event",
+  "category": "fire-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-log_settle-1.flac",
+    "seconds": 5.84,
+    "lufs": -21.6,
+    "true_peak": -1.1,
+    "sha256": "b4906768aa0dc0ccfdf8d3ad140a698c3c31fff8621db2005502bf9e564d32b9",
+    "source": "Studio/lab/sound-lib-1/out/events/log_settle-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-log_settle-2.flac",
+    "seconds": 8.0,
+    "lufs": -21.3,
+    "true_peak": -1.2,
+    "sha256": "b568c28350c6d7491cdcbd5262876f6ff56239b9beb9c4a4a612786fb8959d1a",
+    "source": "Studio/lab/sound-lib-2/out/events/log_settle-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "night_forest_insects": {
+  "label_tr": "Gece ormanı böcekler",
+  "kind": "bed",
+  "category": "nature",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-night_forest_insects.flac",
+    "seconds": 117.85,
+    "lufs": -16.0,
+    "true_peak": -1.4,
+    "sha256": "b06419ec1df4f62f39fdd3e9f2ccd1bed9d4ec1b755adee17113eb4b29191070",
+    "source": "Studio/lab/sound-lib-1/out/beds/night_forest_insects-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "noise_brown": {
+  "label_tr": "Kahverengi gürültü (sentez)",
+  "kind": "synth",
+  "category": "noise",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "NOISE-01_brown_noise_loop.flac",
+    "existing": true
+   }
+  ]
+ },
+ "noise_green": {
+  "label_tr": "Yeşil gürültü (sentez)",
+  "kind": "synth",
+  "category": "noise",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-noise_green.flac",
+    "seconds": 60.0,
+    "lufs": -16.0,
+    "true_peak": -3.9,
+    "sha256": "0510ffe306a1f0d3bbee59ce353a41cb26b2b83042e9a36168977e6f02af4bd0",
+    "source": "Studio/lab/synth/out/noise_green.flac",
+    "licence": "own code (synthesised)"
+   }
+  ]
+ },
+ "noise_grey": {
+  "label_tr": "Gri gürültü (sentez)",
+  "kind": "synth",
+  "category": "noise",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-noise_grey.flac",
+    "seconds": 60.0,
+    "lufs": -16.0,
+    "true_peak": -1.0,
+    "sha256": "042789401b26de3575589f262296a617b34fcad7353e5b9f9ed0b12645ae0199",
+    "source": "Studio/lab/synth/out/noise_grey.flac",
+    "licence": "own code (synthesised)"
+   }
+  ]
+ },
+ "noise_pink": {
+  "label_tr": "Pembe gürültü (sentez)",
+  "kind": "synth",
+  "category": "noise",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "NOISE-02_pink_noise_loop.flac",
+    "existing": true
+   }
+  ]
+ },
+ "noise_white": {
+  "label_tr": "Beyaz gürültü (sentez)",
+  "kind": "synth",
+  "category": "noise",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-noise_white.flac",
+    "seconds": 60.0,
+    "lufs": -16.0,
+    "true_peak": -7.4,
+    "sha256": "5394ac2507ada462f2a41bddff913c6b9b1fa80433139f9b4c67227c52c56cd4",
+    "source": "Studio/lab/synth/out/noise_white.flac",
+    "licence": "own code (synthesised)"
+   }
+  ]
+ },
+ "ocean_calm_beach": {
+  "label_tr": "Sakin kumsal dalgaları",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-ocean_calm_beach.flac",
+    "seconds": 117.95,
+    "lufs": -16.1,
+    "true_peak": -1.2,
+    "sha256": "0b99671e4be27f8dbde3d2c98c53817d70b369f2a9990379bb8e255b004aca9d",
+    "source": "Studio/lab/sound-lib-1/out/beds/ocean_calm_beach-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "ocean_night_distant": {
+  "label_tr": "Evden uzak okyanus",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-ocean_night_distant.flac",
+    "seconds": 117.85,
+    "lufs": -16.1,
+    "true_peak": -1.4,
+    "sha256": "ec72d3e401a964ab05911c05c56b746f847476f1a111fcf7d99512aac07444e4",
+    "source": "Studio/lab/sound-lib-3/out/beds/ocean_night_distant-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "ocean_waves_steady_surf": {
+  "label_tr": "Düzenli sahil dalgaları",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-ocean_waves_steady_surf.flac",
+    "seconds": 116.15,
+    "lufs": -16.1,
+    "true_peak": -1.3,
+    "sha256": "75c04de4294ac1a801c9e5afb7720291ee6b20b9162b610ffd94270fb4c14a6d",
+    "source": "Studio/lab/sound-lib-4/out/beds/ocean_waves_steady_surf-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "old_house_room_tone": {
+  "label_tr": "Eski ev, gece sessizliği",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-old_house_room_tone.flac",
+    "seconds": 118.0,
+    "lufs": -16.9,
+    "true_peak": -1.1,
+    "sha256": "98d2a8cba9d90e2bea40200a215c1dcaba81e1c13f675d96cedb10e7c6ed14ca",
+    "source": "Studio/lab/sound-lib-1/out/beds/old_house_room_tone-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "owl_distant": {
+  "label_tr": "Uzak baykuş",
+  "kind": "event",
+  "category": "nature-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-owl_distant-1.flac",
+    "seconds": 5.73,
+    "lufs": -18.0,
+    "true_peak": -2.4,
+    "sha256": "1ec47cdaba45aa10faaefc0d0b198eea4b5c030281f89e0f980eb7b1869ff566",
+    "source": "Studio/lab/sound-lib-2/out/events/owl_distant-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "owls_two_v2": {
+  "label_tr": "İki baykuş",
+  "kind": "event",
+  "category": "nature-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-owls_two_v2-1.flac",
+    "seconds": 9.87,
+    "lufs": -18.1,
+    "true_peak": -1.4,
+    "sha256": "ed8aca7b676c1ce285885ec8c37a01e552afa02f9a7c2a623c64ebcb3ea44183",
+    "source": "Studio/lab/sound-lib-4/out/events/owls_two_v2-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "page_turn": {
+  "label_tr": "Sayfa çevirme",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-page_turn-1.flac",
+    "seconds": 2.13,
+    "lufs": -19.1,
+    "true_peak": -1.4,
+    "sha256": "7e4888dfe75378f458919a566214785ab795fb5337447f9a3599fe49f803f3bb",
+    "source": "Studio/lab/sound-lib-1/out/events/page_turn-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-page_turn-2.flac",
+    "seconds": 3.61,
+    "lufs": -19.2,
+    "true_peak": -1.1,
+    "sha256": "f3152c272d8925040f04608b60c97a41d31f3bb21dff738de8642e959b291528",
+    "source": "Studio/lab/sound-lib-2/out/events/page_turn-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "pencil_writing_paper": {
+  "label_tr": "Kalemle yazı",
+  "kind": "bed",
+  "category": "focus",
+  "uses": [
+   "calm",
+   "focus"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-pencil_writing_paper.flac",
+    "seconds": 117.15,
+    "lufs": -26.4,
+    "true_peak": -1.1,
+    "sha256": "f4f32074d380f918bb0125a7191dfcad7ca03760851c8a870d5eb92dec406994",
+    "source": "Studio/lab/sound-lib-4/out/beds/pencil_writing_paper-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "radiator_tick_v2": {
+  "label_tr": "Kalorifer tıkırtısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-radiator_tick_v2-1.flac",
+    "seconds": 7.58,
+    "lufs": -21.4,
+    "true_peak": -1.3,
+    "sha256": "aa7526c31e590dde04adcd5b5d407d33d2aa6ddfb44c7b0ff6c9f35cbed5e565",
+    "source": "Studio/lab/sound-lib-4/out/events/radiator_tick_v2-s79.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rail_switch_clatter": {
+  "label_tr": "Ray makası tıkırtısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-rail_switch_clatter-1.flac",
+    "seconds": 5.48,
+    "lufs": -18.0,
+    "true_peak": -3.7,
+    "sha256": "8ea051092db46440161c6f3f8d5592adadb05b9ae3164f8224c77423046e482b",
+    "source": "Studio/lab/sound-lib-1/out/events/rail_switch_clatter-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-rail_switch_clatter-2.flac",
+    "seconds": 5.44,
+    "lufs": -18.0,
+    "true_peak": -3.9,
+    "sha256": "9f6c93d043e91105a732238cf9b69892d13977f6f618571685337e79ff0a40dc",
+    "source": "Studio/lab/sound-lib-1/out/events/rail_switch_clatter-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-rail_switch_clatter-3.flac",
+    "seconds": 7.91,
+    "lufs": -18.0,
+    "true_peak": -1.5,
+    "sha256": "44b264d7bd6e9153250d342cf2982f7d546e1d69ae95762c2d0233b222869878",
+    "source": "Studio/lab/sound-lib-2/out/events/rail_switch_clatter-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_car_roof": {
+  "label_tr": "Araba tavanına yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_car_roof.flac",
+    "seconds": 118.0,
+    "lufs": -16.3,
+    "true_peak": -1.3,
+    "sha256": "abe0be1a1427660483e701314ffc01dade96bb25dc069abe064e7c3ea9c31932",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_car_roof-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_city_night": {
+  "label_tr": "Gece şehirde yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_city_night.flac",
+    "seconds": 118.0,
+    "lufs": -16.7,
+    "true_peak": -1.1,
+    "sha256": "094c79f4f60a5ce768bef273b9e3cc4197e90e2e11f84dda4a5fce8e9436fc0a",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_city_night-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_distant_thunder": {
+  "label_tr": "Yağmur + çok uzak gök gürültüsü",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_distant_thunder.flac",
+    "seconds": 111.7,
+    "lufs": -16.2,
+    "true_peak": -1.5,
+    "sha256": "3302081112e0ab933e27d591501a64066192ba4053b9424e4fe2329d74e2895d",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_distant_thunder-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_drip_tin": {
+  "label_tr": "Teneke kovaya damla",
+  "kind": "event",
+  "category": "rain",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-rain_drip_tin-1.flac",
+    "seconds": 7.56,
+    "lufs": -18.3,
+    "true_peak": -1.2,
+    "sha256": "5a5598a419babd1858292f9689a252513dba2d8aa4f772ecc64bb2ec6dec4c9b",
+    "source": "Studio/lab/sound-lib-3/out/events/rain_drip_tin-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_forest_light": {
+  "label_tr": "Ormanda hafif yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_forest_light.flac",
+    "seconds": 117.95,
+    "lufs": -16.1,
+    "true_peak": -1.0,
+    "sha256": "0849fd2f32a8a28cb0647e03a2afe5de2f3c4cd2daa6f222c72f2dbd1f6725db",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_forest_light-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_glass_roof": {
+  "label_tr": "Sera camına yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_glass_roof.flac",
+    "seconds": 118.0,
+    "lufs": -17.5,
+    "true_peak": -1.1,
+    "sha256": "6402024496c5a025f91d6753091917a1b81a56b79c5f5542ada21d08fee23fe7",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_glass_roof-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_gutter_downpipe": {
+  "label_tr": "Oluk ve yağmur borusu",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_gutter_downpipe.flac",
+    "seconds": 117.95,
+    "lufs": -16.7,
+    "true_peak": -1.1,
+    "sha256": "dce706576c92df5c20bf85a856677e3a9c22ef96cfacf25b02122254413a060d",
+    "source": "Studio/lab/sound-lib-3/out/beds/rain_gutter_downpipe-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_leaves_close": {
+  "label_tr": "Yapraklara yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_leaves_close.flac",
+    "seconds": 118.0,
+    "lufs": -16.8,
+    "true_peak": -1.1,
+    "sha256": "5a96f293726a76c801f0600b0c16319ac74b45fc85ec84d7f35d557390025c50",
+    "source": "Studio/lab/sound-lib-3/out/beds/rain_leaves_close-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_metal_roof": {
+  "label_tr": "Metal çatıya yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_metal_roof.flac",
+    "seconds": 115.7,
+    "lufs": -16.2,
+    "true_peak": -1.3,
+    "sha256": "bb0e848a391feaed4fd5cca5c44ba3ab500432f15fcabdd497f26e019d275db2",
+    "source": "Studio/lab/sound-lib-3/out/beds/rain_metal_roof-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_pavement_puddles": {
+  "label_tr": "Kaldırım ve su birikintileri",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_pavement_puddles.flac",
+    "seconds": 117.95,
+    "lufs": -16.2,
+    "true_peak": -1.1,
+    "sha256": "27f3ad6117d0c9fa4a492f2d80720de5993d147b37b127af40906b313bb2a7b1",
+    "source": "Studio/lab/sound-lib-3/out/beds/rain_pavement_puddles-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_plastic_awning": {
+  "label_tr": "Plastik saçağa yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_plastic_awning.flac",
+    "seconds": 117.85,
+    "lufs": -16.2,
+    "true_peak": -1.4,
+    "sha256": "9bececc73e1b6d77506362aca3769eae190b1b0f85c40a3272b93d00772dfc7f",
+    "source": "Studio/lab/sound-lib-4/out/beds/rain_plastic_awning-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_porch": {
+  "label_tr": "Verandadan yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_porch.flac",
+    "seconds": 118.0,
+    "lufs": -17.0,
+    "true_peak": -1.1,
+    "sha256": "3be0458ac3af91dfbb45a719d0fefaf47858587ca4dffc6cbc8e97ca6aaa568c",
+    "source": "Studio/lab/sound-lib-3/out/beds/rain_porch-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_skylight": {
+  "label_tr": "Çatı penceresine yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_skylight.flac",
+    "seconds": 113.7,
+    "lufs": -16.5,
+    "true_peak": -1.5,
+    "sha256": "4fd9366afc5c9cd2bcdf698f1ef82b1d31439f34c781c633275070f68e553baf",
+    "source": "Studio/lab/sound-lib-3/out/beds/rain_skylight-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_steady_heavy": {
+  "label_tr": "Şiddetli düz yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_steady_heavy.flac",
+    "seconds": 118.0,
+    "lufs": -16.9,
+    "true_peak": -1.1,
+    "sha256": "5e702915b8d201f21d0b6bbda8e32b38d4f4524c1e14e15f71306a4b281aeccf",
+    "source": "Studio/lab/sound-lib-4/out/beds/rain_steady_heavy-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_steady_medium": {
+  "label_tr": "Orta şiddette düz yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_steady_medium.flac",
+    "seconds": 118.0,
+    "lufs": -16.7,
+    "true_peak": -1.1,
+    "sha256": "a8375280444cb7f427a84ee09b7c91369dbf0f22fa8a69931f1fe142d73e66b8",
+    "source": "Studio/lab/sound-lib-4/out/beds/rain_steady_medium-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_tent": {
+  "label_tr": "Çadıra yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_tent.flac",
+    "seconds": 112.9,
+    "lufs": -16.1,
+    "true_peak": -1.5,
+    "sha256": "4a62bd72dfb472704c07fc5ac2aa583aaae99b0637a795c76c3f67a315ec8432",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_tent-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_tile_roof": {
+  "label_tr": "Kiremit çatıya yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_tile_roof.flac",
+    "seconds": 117.95,
+    "lufs": -16.0,
+    "true_peak": -1.0,
+    "sha256": "574ff6b8a9955f452a267742ff0f7e2944e01b773700803f481a5c6cbdb8b572",
+    "source": "Studio/lab/sound-lib-3/out/beds/rain_tile_roof-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_umbrella_v2": {
+  "label_tr": "Şemsiyeye yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_umbrella_v2.flac",
+    "seconds": 117.85,
+    "lufs": -16.4,
+    "true_peak": -1.1,
+    "sha256": "18997c4d94b5096e7615931624eae571fc9583b5c804556ee116e391fbff8246",
+    "source": "Studio/lab/sound-lib-4/out/beds/rain_umbrella_v2-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_window_heavy": {
+  "label_tr": "Cama sağanak",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_window_heavy.flac",
+    "seconds": 118.0,
+    "lufs": -16.8,
+    "true_peak": -1.1,
+    "sha256": "acffd7718d7fcd6a1218db94a29f30dfb6eb6b0609a97955a7a6fa46128655cc",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_window_heavy-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_window_light": {
+  "label_tr": "Cama hafif yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_window_light.flac",
+    "seconds": 113.8,
+    "lufs": -16.9,
+    "true_peak": -1.5,
+    "sha256": "c2bc472770c77b374d54ed9be73277767bbf258f7ed0d67417e5ca3f14a10880",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_window_light-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rain_wooden_roof": {
+  "label_tr": "Ahşap çatıya yağmur",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-rain_wooden_roof.flac",
+    "seconds": 118.0,
+    "lufs": -17.1,
+    "true_peak": -1.1,
+    "sha256": "6de13629636857f4bab36008d01d8d91a642c2ff2fa9c23995e46ae9939a3968",
+    "source": "Studio/lab/sound-lib-1/out/beds/rain_wooden_roof-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "river_flowing": {
+  "label_tr": "Akan nehir",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-river_flowing.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -2.2,
+    "sha256": "b0f7d15772e95ad6223466710cb02185dc6bd114e40cdbafeae3fea93bb817bf",
+    "source": "Studio/lab/sound-lib-1/out/beds/river_flowing-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "rope_creak": {
+  "label_tr": "Halat gıcırtısı",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-rope_creak-1.flac",
+    "seconds": 8.0,
+    "lufs": -18.1,
+    "true_peak": -1.4,
+    "sha256": "5ddb30e76b0c70cddecf0da3549de6f9d148885ddd516f39346f02238f194e6c",
+    "source": "Studio/lab/sound-lib-2/out/events/rope_creak-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "sea_storm_rocks": {
+  "label_tr": "Kayalara vuran fırtınalı deniz",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-sea_storm_rocks.flac",
+    "seconds": 117.95,
+    "lufs": -16.1,
+    "true_peak": -1.4,
+    "sha256": "dd9aabd03819f56fb3bc6738821789f050b9495e48c3c6b55ed2aa716d7d9a25",
+    "source": "Studio/lab/sound-lib-1/out/beds/sea_storm_rocks-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "seagull_distant": {
+  "label_tr": "Uzak martı",
+  "kind": "event",
+  "category": "water",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-seagull_distant-1.flac",
+    "seconds": 3.95,
+    "lufs": -18.0,
+    "true_peak": -1.4,
+    "sha256": "946fa0aa8b667473638495f4bae5f47f7dc93be64f5b5ab8e9fd49ec3a045eef",
+    "source": "Studio/lab/sound-lib-3/out/events/seagull_distant-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "seagulls_harbor_morning": {
+  "label_tr": "Sabah limanı martılar",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-seagulls_harbor_morning.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -1.4,
+    "sha256": "e066700809df83ad0cb97c4f0da2658b679d512f789079addd173d14bbca129a",
+    "source": "Studio/lab/sound-lib-3/out/beds/seagulls_harbor_morning-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "ship_cabin_engine": {
+  "label_tr": "Gemi kamarası",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-ship_cabin_engine.flac",
+    "seconds": 116.75,
+    "lufs": -16.1,
+    "true_peak": -1.5,
+    "sha256": "2c48c8038e87960a213c247eeee286e3e0bc267e51138f3b218f65d16894a442",
+    "source": "Studio/lab/sound-lib-3/out/beds/ship_cabin_engine-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "shower_running": {
+  "label_tr": "Duş",
+  "kind": "bed",
+  "category": "machine",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-shower_running.flac",
+    "seconds": 117.9,
+    "lufs": -16.0,
+    "true_peak": -1.9,
+    "sha256": "9f55e7fab673c06975870fd6690c2d92d55260ab784b5087a09b47ce98f6f193",
+    "source": "Studio/lab/sound-lib-4/out/beds/shower_running-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "shutter_rattle_wind": {
+  "label_tr": "Rüzgârda panjur",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-shutter_rattle_wind-1.flac",
+    "seconds": 5.73,
+    "lufs": -18.2,
+    "true_peak": -1.5,
+    "sha256": "2ea9d214a44667c1b70910d410de9621920f1a1fa734d2b8e35b54f1caaad64e",
+    "source": "Studio/lab/sound-lib-2/out/events/shutter_rattle_wind-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-shutter_rattle_wind-2.flac",
+    "seconds": 5.47,
+    "lufs": -18.1,
+    "true_peak": -1.5,
+    "sha256": "bf2537d8974e4fce77a7290c83bfcfc10c4e0a11f27c801e991df72343084f34",
+    "source": "Studio/lab/sound-lib-2/out/events/shutter_rattle_wind-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "singing_bowl_soft": {
+  "label_tr": "Şarkı söyleyen kâse",
+  "kind": "bed",
+  "category": "tonal",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-singing_bowl_soft.flac",
+    "seconds": 111.05,
+    "lufs": -16.4,
+    "true_peak": -1.4,
+    "sha256": "f1576ba6c1c8965a4a769962405ca4e3964e83e6a7e19940be1c8435ae2e6387",
+    "source": "Studio/lab/sound-lib-3/out/beds/singing_bowl_soft-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "snow_falling_forest": {
+  "label_tr": "Ormanda kar yağışı",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-snow_falling_forest.flac",
+    "seconds": 118.0,
+    "lufs": -16.1,
+    "true_peak": -1.3,
+    "sha256": "926af39f7be217b26fb1e7373f5a111046ff077befcd49b3a2f81791f3509479",
+    "source": "Studio/lab/sound-lib-3/out/beds/snow_falling_forest-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "snow_slide_roof": {
+  "label_tr": "Çatıdan kayan kar",
+  "kind": "event",
+  "category": "snow-wind",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-snow_slide_roof-1.flac",
+    "seconds": 4.42,
+    "lufs": -19.0,
+    "true_peak": -1.5,
+    "sha256": "3ef8b828df42deb402cefadde39e8e6d0f4224812ba4c2d565b33bd3c64e10e5",
+    "source": "Studio/lab/sound-lib-1/out/events/snow_slide_roof-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-snow_slide_roof-2.flac",
+    "seconds": 5.81,
+    "lufs": -18.2,
+    "true_peak": -1.5,
+    "sha256": "0a8989b4518f14255bc7c1ab3174daaf84aa2183ada610be7a11b35d3c1a7f20",
+    "source": "Studio/lab/sound-lib-2/out/events/snow_slide_roof-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "snowstorm_cabin_exterior": {
+  "label_tr": "Kulübe dışında kar fırtınası",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-snowstorm_cabin_exterior.flac",
+    "seconds": 117.85,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "7fd4cf77dfdd5fcd537e203bb9611d97afcc66b15bf01ac0b2b21ff89bf557bb",
+    "source": "Studio/lab/sound-lib-1/out/beds/snowstorm_cabin_exterior-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "spaceship_engine_room": {
+  "label_tr": "Uzay gemisi makine dairesi",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-spaceship_engine_room.flac",
+    "seconds": 117.85,
+    "lufs": -16.0,
+    "true_peak": -2.7,
+    "sha256": "1eb5bd1e6915af6c6f7775992314fae2b4857ddcb5ef9c47ac378866bcc75ce2",
+    "source": "Studio/lab/sound-lib-3/out/beds/spaceship_engine_room-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "stone_castle_room_wind": {
+  "label_tr": "Taş kale odası",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-stone_castle_room_wind.flac",
+    "seconds": 116.8,
+    "lufs": -16.4,
+    "true_peak": -1.5,
+    "sha256": "8cb1afc666e20826d59f64c59b276b29e0e549fcec8a1670652dab5b7b544ae0",
+    "source": "Studio/lab/sound-lib-3/out/beds/stone_castle_room_wind-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "storm_heavy_rain": {
+  "label_tr": "Şiddetli fırtına",
+  "kind": "bed",
+  "category": "rain",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-storm_heavy_rain.flac",
+    "seconds": 114.45,
+    "lufs": -16.2,
+    "true_peak": -1.5,
+    "sha256": "718bf373efed8b8d06cc8e6f066b226735da445bfc9f57cc1609ce345735529d",
+    "source": "Studio/lab/sound-lib-1/out/beds/storm_heavy_rain-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "stream_mountain": {
+  "label_tr": "Dağ deresi",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-stream_mountain.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "ddd13a5db75d5cbc481bbdc2d40ec83520764b22610ee9809ea10766ffcaf029",
+    "source": "Studio/lab/sound-lib-1/out/beds/stream_mountain-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "submarine_hull_deep": {
+  "label_tr": "Denizaltı",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-submarine_hull_deep.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -4.1,
+    "sha256": "73e245610f0af36419d1443ee3a44463988820c02119a7e64d5ab2cd7af47f01",
+    "source": "Studio/lab/sound-lib-4/out/beds/submarine_hull_deep-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "summer_cicadas": {
+  "label_tr": "Yaz ağustos böcekleri",
+  "kind": "bed",
+  "category": "nature",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-summer_cicadas.flac",
+    "seconds": 117.9,
+    "lufs": -16.2,
+    "true_peak": -1.1,
+    "sha256": "1393d4458d75ce6182c5d8dde93ec639e5ea9af47a55a454c5e3eb8fba1da142",
+    "source": "Studio/lab/sound-lib-3/out/beds/summer_cicadas-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "tavern_fireplace_night": {
+  "label_tr": "Han, şömine başı",
+  "kind": "bed",
+  "category": "place",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-tavern_fireplace_night.flac",
+    "seconds": 118.0,
+    "lufs": -17.4,
+    "true_peak": -1.1,
+    "sha256": "27c1a7bb46e64940794aa46b32e787af50c462b36fe6d9da96b2f959ed3e70da",
+    "source": "Studio/lab/sound-lib-4/out/beds/tavern_fireplace_night-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "tea_glass_spoon": {
+  "label_tr": "Çay bardağı ve kaşık",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-tea_glass_spoon-1.flac",
+    "seconds": 4.95,
+    "lufs": -19.6,
+    "true_peak": -1.1,
+    "sha256": "eaf75a4bf4cbc48ab548ef93ee39e9829780f7fe4cd8f54ce0096773313ee9ed",
+    "source": "Studio/lab/sound-lib-3/out/events/tea_glass_spoon-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "thunder_roll_distant": {
+  "label_tr": "Uzak gök gürlemesi",
+  "kind": "event",
+  "category": "weather-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-thunder_roll_distant-1.flac",
+    "seconds": 9.62,
+    "lufs": -18.5,
+    "true_peak": -1.5,
+    "sha256": "830762385053edc202d9d60d5207d472721fb7e42b9ecaf83057ac41f1cd745c",
+    "source": "Studio/lab/sound-lib-1/out/events/thunder_roll_distant-s97.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-thunder_roll_distant-2.flac",
+    "seconds": 9.59,
+    "lufs": -19.3,
+    "true_peak": -1.5,
+    "sha256": "27fd5f28604b16e0b4b1e9dc64695f554251e0f8aa58c4a3f392646d325253a2",
+    "source": "Studio/lab/sound-lib-1/out/events/thunder_roll_distant-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-thunder_roll_distant-3.flac",
+    "seconds": 12.0,
+    "lufs": -18.2,
+    "true_peak": -1.5,
+    "sha256": "a18077f210ab584b74c6bc9724073312dfebd762878134aa08914e0e55470954",
+    "source": "Studio/lab/sound-lib-2/out/events/thunder_roll_distant-s79.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-thunder_roll_distant-4.flac",
+    "seconds": 11.78,
+    "lufs": -18.1,
+    "true_peak": -1.5,
+    "sha256": "24a63a54ea0c8a2c10e02951fdd6ece75524eba94989ee90de5a72f6848d4d26",
+    "source": "Studio/lab/sound-lib-2/out/events/thunder_roll_distant-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "train_compartment_night": {
+  "label_tr": "Gece treni kompartımanı",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-train_compartment_night.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -1.2,
+    "sha256": "03ebb214196611e87c008aa92163354f35d3148caf7d24738aced0bb01a8859a",
+    "source": "Studio/lab/sound-lib-1/out/beds/train_compartment_night-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "train_horn_distant": {
+  "label_tr": "Uzak tren düdüğü",
+  "kind": "event",
+  "category": "vehicle",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-train_horn_distant-1.flac",
+    "seconds": 5.73,
+    "lufs": -18.0,
+    "true_peak": -4.7,
+    "sha256": "5bf309faecef6e95d8a5f5ca80158fc97bc0d94129b1ed2ba7c38adfdbef1db1",
+    "source": "Studio/lab/sound-lib-1/out/events/train_horn_distant-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-train_horn_distant-2.flac",
+    "seconds": 5.72,
+    "lufs": -18.0,
+    "true_peak": -5.5,
+    "sha256": "1c00db2c205b6fc74d55354857651542bbc7ccce4703005b2f04752333f3e1c8",
+    "source": "Studio/lab/sound-lib-1/out/events/train_horn_distant-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "train_sleeper_rain": {
+  "label_tr": "Yağmurlu yataklı vagon",
+  "kind": "bed",
+  "category": "vehicle",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-train_sleeper_rain.flac",
+    "seconds": 117.85,
+    "lufs": -16.2,
+    "true_peak": -1.3,
+    "sha256": "b5bc4f481f637ba6e2842de037f8cdb449538a65e6454f74a91a5e92e5b3e285",
+    "source": "Studio/lab/sound-lib-1/out/beds/train_sleeper_rain-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "underwater_calm": {
+  "label_tr": "Su altı",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-underwater_calm.flac",
+    "seconds": 118.0,
+    "lufs": -16.4,
+    "true_peak": -1.4,
+    "sha256": "700999ff1b507c76e3e4ac5cb563fc3667f836db287792eb52dbcd71ba48786b",
+    "source": "Studio/lab/sound-lib-3/out/beds/underwater_calm-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "vacuum_next_room": {
+  "label_tr": "Yan odada süpürge",
+  "kind": "bed",
+  "category": "machine",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-vacuum_next_room.flac",
+    "seconds": 117.85,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "cb58b706b2f9357227ec9575f42bd0e5c4f0a22621ead13846c3bccc0ba5afe1",
+    "source": "Studio/lab/sound-lib-4/out/beds/vacuum_next_room-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "washing_machine_wash": {
+  "label_tr": "Çamaşır makinesi",
+  "kind": "bed",
+  "category": "machine",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-washing_machine_wash.flac",
+    "seconds": 117.95,
+    "lufs": -16.4,
+    "true_peak": -1.1,
+    "sha256": "e97729748603c2b0017281f45e8dcab96317770825c80e090471102590a9c3e8",
+    "source": "Studio/lab/sound-lib-4/out/beds/washing_machine_wash-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "waterfall_woods": {
+  "label_tr": "Ormanda şelale",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-waterfall_woods.flac",
+    "seconds": 117.9,
+    "lufs": -16.0,
+    "true_peak": -1.7,
+    "sha256": "2152c09edbb2a98cccc77aeaf2b49e9c75b0e0f18a737d481907b61fb1817259",
+    "source": "Studio/lab/sound-lib-1/out/beds/waterfall_woods-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "waves_rocky_shore_calm": {
+  "label_tr": "Kayalarda sakin dalga",
+  "kind": "bed",
+  "category": "water",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-waves_rocky_shore_calm.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -1.0,
+    "sha256": "2d7281176f77d6eae06cbd98641899f7a3f46fadcb99ef5bc56b182535b6c84f",
+    "source": "Studio/lab/sound-lib-3/out/beds/waves_rocky_shore_calm-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "wind_chime_soft": {
+  "label_tr": "Rüzgâr çanı",
+  "kind": "event",
+  "category": "snow-wind",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-wind_chime_soft-1.flac",
+    "seconds": 5.51,
+    "lufs": -18.5,
+    "true_peak": -1.0,
+    "sha256": "7d9f314786c4568fa62c0472fabe58bdd61c0049ddc0a783d78115c5bf459668",
+    "source": "Studio/lab/sound-lib-3/out/events/wind_chime_soft-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "wind_chimney": {
+  "label_tr": "Bacada rüzgâr",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-wind_chimney.flac",
+    "seconds": 114.65,
+    "lufs": -16.4,
+    "true_peak": -1.5,
+    "sha256": "ba82e8478487a586d26a8796ae429e4f5d2e0fd00c08f4a5e6ae8e9d209ea38c",
+    "source": "Studio/lab/sound-lib-3/out/beds/wind_chimney-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "wind_desert_night": {
+  "label_tr": "Gece çölde rüzgâr",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-wind_desert_night.flac",
+    "seconds": 118.0,
+    "lufs": -19.0,
+    "true_peak": -1.3,
+    "sha256": "e93a4ba24d7d460e6a170d5d1d05f55584e4f9cc5ac652f8cc6046bff66bff4f",
+    "source": "Studio/lab/sound-lib-3/out/beds/wind_desert_night-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "wind_door_crack": {
+  "label_tr": "Kapı aralığından rüzgâr",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-wind_door_crack.flac",
+    "seconds": 118.0,
+    "lufs": -16.1,
+    "true_peak": -1.5,
+    "sha256": "6526c4a6777f4f68e7d7f45d2589db85cb5dae3dee2e6f6ac6d5895ec3e090d1",
+    "source": "Studio/lab/sound-lib-3/out/beds/wind_door_crack-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "wind_forest_strong": {
+  "label_tr": "Çam ormanında sert rüzgâr",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-wind_forest_strong.flac",
+    "seconds": 117.9,
+    "lufs": -16.2,
+    "true_peak": -1.3,
+    "sha256": "f2c2a30615b1e04dff90e8600d8dde138ae2defb4063db4589ad1428a5376e0d",
+    "source": "Studio/lab/sound-lib-3/out/beds/wind_forest_strong-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "wind_gust_window": {
+  "label_tr": "Cama rüzgâr esintisi",
+  "kind": "event",
+  "category": "snow-wind",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-wind_gust_window-1.flac",
+    "seconds": 7.79,
+    "lufs": -18.0,
+    "true_peak": -3.0,
+    "sha256": "72471e8ae8f79b34b399a57d98fc57473f471cb53513594b332d31bad2bf3745",
+    "source": "Studio/lab/sound-lib-2/out/events/wind_gust_window-s11.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "wind_mountain_ridge": {
+  "label_tr": "Dağ sırtında rüzgâr",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-wind_mountain_ridge.flac",
+    "seconds": 117.95,
+    "lufs": -16.0,
+    "true_peak": -1.5,
+    "sha256": "940baf813199f9b725b98745c0cb164b4c025d521af39f938bcd3a934f413a20",
+    "source": "Studio/lab/sound-lib-3/out/beds/wind_mountain_ridge-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "winter_forest_silence": {
+  "label_tr": "Kış ormanı sessizliği",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-winter_forest_silence.flac",
+    "seconds": 118.0,
+    "lufs": -16.0,
+    "true_peak": -1.2,
+    "sha256": "2fbfdba66f36187ffe15bafbcbf9f11eed21df0530948f34fb99fb104fc07725",
+    "source": "Studio/lab/sound-lib-3/out/beds/winter_forest_silence-s41.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "winter_wind_soft": {
+  "label_tr": "Yumuşak kış rüzgârı",
+  "kind": "bed",
+  "category": "snow-wind",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-winter_wind_soft.flac",
+    "seconds": 117.95,
+    "lufs": -16.1,
+    "true_peak": -1.4,
+    "sha256": "7729140e28c130211d50e4d95960cdd5afa048e0b13684ed0ace920da5d6f25e",
+    "source": "Studio/lab/sound-lib-1/out/beds/winter_wind_soft-s37.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "wood_pop": {
+  "label_tr": "Odun patlaması",
+  "kind": "event",
+  "category": "fire-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-wood_pop-1.flac",
+    "seconds": 4.64,
+    "lufs": -27.8,
+    "true_peak": -1.1,
+    "sha256": "61c48bbacc42af2933e7854e71dd14b7c84a8b9e7d8fcbf8a6f72d0746c0e47e",
+    "source": "Studio/lab/sound-lib-2/out/events/wood_pop-s67.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "thunder_rolling_distant": {
+  "label_tr": "Yağmurda uzaktan yuvarlanan gök gürültüsü",
+  "kind": "bed",
+  "category": "weather",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-thunder_rolling_distant.flac",
+    "seconds": 112.1,
+    "lufs": -16.1,
+    "true_peak": -1.5,
+    "sha256": "0051b6ed872f14ce4b1051978009b32ed361372cec3e15656b800d8fca71c307",
+    "source": "Studio/lab/sound-lib-5/out/beds/thunder_rolling_distant-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "thunder_only_distant": {
+  "label_tr": "Yağmursuz uzak gök gürültüsü",
+  "kind": "bed",
+  "category": "weather",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "SND-thunder_only_distant.flac",
+    "seconds": 112.0,
+    "lufs": -16.2,
+    "true_peak": -1.5,
+    "sha256": "b03b3e84a0fe83903526dc6819d9fe0744af70f82b974c1535e5ee6f449a79c5",
+    "source": "Studio/lab/sound-lib-5/out/beds/thunder_only_distant-s23.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "drone_432_hum": {
+  "label_tr": "432 Hz drone",
+  "kind": "synth",
+  "category": "tonal",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "DRONE-02_hum_432hz_drone_loop.flac",
+    "existing": true
+   }
+  ]
+ },
+ "pad_432_atmospheric": {
+  "label_tr": "Atmosferik pad",
+  "kind": "synth",
+  "category": "tonal",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "DRONE-03_atmospheric_432hz_pad_loop.flac",
+    "existing": true
+   }
+  ]
+ },
+ "pad_432_sleep_minimal": {
+  "label_tr": "Sade uyku padi",
+  "kind": "synth",
+  "category": "tonal",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "DRONE-04_sleep_432hz_minimal_pad_loop.flac",
+    "existing": true
+   }
+  ]
+ },
+ "singing_bowl_432": {
+  "label_tr": "432 Hz şarkı söyleyen kâse",
+  "kind": "synth",
+  "category": "tonal",
+  "uses": [
+   "calm",
+   "sleep"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-singing_bowl_432.flac",
+    "seconds": 120.0,
+    "lufs": -16.0,
+    "true_peak": -5.4,
+    "sha256": "7ce613f9b4e980eed84110438d7576ee220e91da4f93abd9b6d1ff472b1e3b4d",
+    "source": "Studio/lab/synth/out/singing_bowl_432.flac",
+    "licence": "own code (synthesised)"
+   }
+  ]
+ },
+ "candle_flame_soft": {
+  "label_tr": "Mum alevi (yumuşak, yakın)",
+  "kind": "bed",
+  "category": "fire",
+  "uses": [
+   "calm",
+   "sleep",
+   "focus"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "SND-candle_flame_soft.flac",
+    "seconds": 118.0,
+    "lufs": -26.4,
+    "true_peak": -1.1,
+    "sha256": "3188d2a3c171024de4f14884821f5ae89a1d73b34ecbeda3a024f7fc56b2a0bb",
+    "source": "Studio/lab/sound-lib-10/out/beds/candle_flame_soft-s5.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "snowglobe_swirl": {
+  "label_tr": "Kar küresinde su dönüyor",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "EVT-snowglobe_swirl-1.flac",
+    "seconds": 5.35,
+    "lufs": -19.0,
+    "true_peak": -1.1,
+    "sha256": "1002a8b9bac800e263d0562e49c21ab0a96e9fcbfbff42dc7894d9b9a300236d",
+    "source": "Studio/lab/sound-lib-10/out/events/glitter_water_swirl-s3.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   },
+   {
+    "file": "EVT-snowglobe_swirl-2.flac",
+    "seconds": 5.49,
+    "lufs": -19.4,
+    "true_peak": -1.1,
+    "sha256": "3cd7ca3ecdaf5de3c3ba234d566fc077b9ff8bf9ef89890581516187796b4136",
+    "source": "Studio/lab/sound-lib-10/out/events/water_jar_slosh_soft-s3.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "snowglobe_glass_knock": {
+  "label_tr": "Küre masaya konuyor",
+  "kind": "event",
+  "category": "home-event",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-snowglobe_glass_knock-1.flac",
+    "seconds": 0.86,
+    "lufs": -20.9,
+    "true_peak": -1.5,
+    "sha256": "ef2e2437d85f6b0f3c8b81baecd22440b4d993aec8676af941d3b2e9197eb611",
+    "source": "Studio/lab/sound-lib-9/out/events/snowglobe_glass_knock-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "window_gust_frost": {
+  "label_tr": "Rüzgâr eski pencereye vuruyor",
+  "kind": "event",
+  "category": "snow-wind",
+  "uses": [
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-window_gust_frost-1.flac",
+    "seconds": 7.48,
+    "lufs": -18.2,
+    "true_peak": -1.5,
+    "sha256": "30dea27db7697e5e8640a7501c3284dc91bdbab51b18f0ef5c4b2536dba8598f",
+    "source": "Studio/lab/sound-lib-9/out/events/window_gust_frost-s53.flac",
+    "licence": "Stable Audio 3 output, owned by us (Stability AI Community License; commercial registration 2026-11-10)"
+   }
+  ]
+ },
+ "chime_focus_start": {
+  "label_tr": "Odak başlangıç çanı",
+  "kind": "event",
+  "category": "tonal",
+  "uses": [
+   "focus",
+   "calm"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "EVT-chime_focus_start-1.flac",
+    "seconds": 5.0,
+    "lufs": -18.0,
+    "true_peak": -9.1,
+    "sha256": "f53569a3232511a0d549c51fb8992417ddaf83c4524ce98c0ade3a9c8394af5e",
+    "source": "Studio/lab/pomodoro-cues/chime_focus_start.flac",
+    "licence": "Synthesised in our own code (pillody-social colab/synth_cues.py), no AI, no third-party licence"
+   }
+  ]
+ },
+ "chime_break_start": {
+  "label_tr": "Mola başlangıç çanı",
+  "kind": "event",
+  "category": "tonal",
+  "uses": [
+   "focus",
+   "calm"
+  ],
+  "sleep_safe": true,
+  "files": [
+   {
+    "file": "EVT-chime_break_start-1.flac",
+    "seconds": 5.0,
+    "lufs": -18.0,
+    "true_peak": -7.6,
+    "sha256": "4401e6a18ae0c724bce6907c7af6b692221ffe724e7cc2dfe93bcaabd2ddb24c",
+    "source": "Studio/lab/pomodoro-cues/chime_break_start.flac",
+    "licence": "Synthesised in our own code (pillody-social colab/synth_cues.py), no AI, no third-party licence"
+   }
+  ]
+ },
+ "sparrow_chirp_glass": {
+  "label_tr": "Serçe cıvıltısı (cam ardında)",
+  "kind": "event",
+  "category": "nature",
+  "uses": [
+   "focus",
+   "calm"
+  ],
+  "sleep_safe": false,
+  "files": [
+   {
+    "file": "EVT-sparrow_chirp_glass-1.flac",
+    "seconds": 0.76,
+    "lufs": -18.0,
+    "true_peak": -14.0,
+    "sha256": "e3508e045e7c98315880b17f29f5a128c2081eba54b8c8bc5e19ab0e3d5af9f4",
+    "source": "Studio/lab/pomodoro-life/sparrow_B.flac",
+    "licence": "Synthesised in our own code (pillody-social colab/synth_sparrow.py), no AI, no third-party licence"
+   }
+  ]
+ }
+}

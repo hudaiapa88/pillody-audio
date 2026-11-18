@@ -60,3 +60,17 @@ sub-octave, nothing above 500 Hz; DRONE-02 432/216/864 Hz; DRONE-03 216/432/864 
 
 No source found (not in Mixkit). Replace with the synthesised `singing_bowl_432` from the AI/synth library
 (Drive Studio/library/catalog.json).
+
+## SND-* and EVT-* sound library (2026-11-18)
+
+Built by `build_library.py` from the owner-approved catalog (Drive `Studio/library/catalog.json`, 145 sounds, blind
+listening). The per-file record is `library.json`: output file, length, loudness, true peak, sha256, the source file in
+the Studio folder and its licence line.
+
+- Recorded-type beds and events: Stable Audio 3 output, owned by us (Stability AI Community License; commercial
+  registration 2026-11-10). Model, prompt and seed of every file are in the catalog.
+- Noise colours, the 432 Hz bowl, the focus/break chimes and the sparrow chirp: synthesised in our own code.
+- No Mixkit, Pixabay or other third-party recording is part of these files.
+
+`NAT-*` files stay in the repository only until the app version that no longer requests them has rolled out; then
+they are deleted.
