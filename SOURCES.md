@@ -72,5 +72,4 @@ the Studio folder and its licence line.
 - Noise colours, the 432 Hz bowl, the focus/break chimes and the sparrow chirp: synthesised in our own code.
 - No Mixkit, Pixabay or other third-party recording is part of these files.
 
-`NAT-*` files stay in the repository only until the app version that no longer requests them has rolled out; then
-they are deleted.
+`NAT-*` files were removed from the repository on 2026-11-19 (commit 9e1c4b2); they remain only in git history.
